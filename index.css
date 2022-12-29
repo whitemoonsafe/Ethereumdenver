@@ -67,6 +67,9 @@ body{
     padding-top: 85px;
 }
 
+.details p{
+    padding: 20px;
+}
 .nav img{
     width: 1.5em;
     height: 1.5em;
