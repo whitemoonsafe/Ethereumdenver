@@ -69,7 +69,7 @@ fetch("./data.json")
         </tr>
         ${Data[call - 1]}
         ${Data[call - 2]}
-        ${Data[call + 4]}
+        ${Data[call - 3]}
         ${Data[call + 3]}
         ${Data[call + 2]}
         ${Data[call + 1]}
