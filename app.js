@@ -73,7 +73,7 @@ fetch("./data.json")
         ${Data[call + 3 === length - 1 || call + 3 < 0 ? 3 : call + 3]}
         ${Data[call + 2 === length - 1 || call + 2 < 0 ? 2 : call + 2]}
         ${Data[call + 1 === length - 1 || call + 1 < 0 ? 1 : call + 1]}
-        ${Data[call]}}
+        ${Data[call]}
     </table>`
     document.getElementById("transaction").innerHTML = element
     }
