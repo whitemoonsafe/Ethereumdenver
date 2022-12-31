@@ -341,7 +341,13 @@ th{
         max-width: 500px;
         font-size: larger;
     }
-
+    
+    .anchor{
+        padding: 10px 20px;
+        font-weight: 500;
+        width: fit-content;
+    }
+    
     .title{
         width: 100%;
         max-width: 500px;
