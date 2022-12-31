@@ -99,7 +99,8 @@ p{
 }
 
 .title a,
-button{
+button,
+.anchor{
     text-decoration: none;
     background: #625d85;
     padding: 10px 20px;
@@ -112,6 +113,15 @@ button{
     box-shadow: 1px 1px 10px #625d85;
     border: none;
 }
+
+ .anchor{
+    text-align: center;
+    width: 100%;
+    padding-bottom: .9em;
+    padding-top: .9em;
+    font-size: 1.5em;
+    font-weight: 700;
+  }
 
 .title a{
     margin-bottom: 30px;
